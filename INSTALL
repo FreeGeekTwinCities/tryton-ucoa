@@ -1,0 +1,14 @@
+Installing trytond_account_ucoa
+=============================
+Prerequisites
+-------------
+
+ * Python 2.4 or later (http://www.python.org/)
+ * trytond (http://www.tryton.org/)
+ * trytond_account (http://www.tryton.org/)
+
+Installation
+------------
+Extract the archive and run 'python setup.py install' (may need root privileges).
+Restart trytond, and enable module via Tryton client.
+
